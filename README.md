@@ -5,6 +5,9 @@ Welcome to the Student Management System repository! This command-line-based pro
 Features
 
 Linux Compatibility: Built from the ground up for Linux, ensuring optimal performance and compatibility with Linux distributions.
+
 Command-Line Interface: Utilizes a command-line interface for a lightweight and efficient user experience, ideal for Linux users familiar with terminal operations.
+
 Student Registration: Easily register new students and manage their information directly from the command line. Update,Delete or Add commands function smoothly.
+
 Record Maintenance: Keep track of student records, including enrollment details, academic performance, and personal information, all within the Linux environment.
